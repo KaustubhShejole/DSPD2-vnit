@@ -1,5 +1,10 @@
 # Train Reservation Management System
 
+---
+Author: Kaustubh Shivshankar Shejole
+---
+
+
 This project implements a train reservation management system with two variants:
 
 * **Assignment 1:** Records stored in a **linked list** of structures
